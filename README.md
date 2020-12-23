@@ -23,8 +23,6 @@ Atualmente, atendo ao primeiro ano do Ensino Médio, tendo como estudo técnico 
 - [Curso em Vídeo](https://www.cursoemvideo.com/) por Professor Gustavo Guanabara
 - [CS50](https://cs50.harvard.edu/x/2021/) por Universidade de Harvard.
 
-Entre outras plataformas não menos importantes.
-
-Como diria o Professor Gustavo Guanabara:
+Entre outras plataformas, que apenas não tiveram espaço para aparecerem, mas tendo igual importância, pois como diria o Professor Gustavo Guanabara:
 
 > Não sei qual é o segredo do sucesso, mas sei qual é o do fracasso: não praticar
