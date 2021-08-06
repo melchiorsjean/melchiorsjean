@@ -44,9 +44,9 @@ Atualmente, como mencionado no topo, atendo ao primeiro ano do Ensino Médio, te
 
 - [Curso em Vídeo](https://www.cursoemvideo.com/) por Professor Gustavo Guanabara;
 - [Estudonauta](https://www.estudonauta/) por Professor Gustavo Guanabara e outros.
-- [WRKits] por Dr. Wagner Rambo
+- [WRKits](https://www.youtube.com/user/canalwrkits) por Dr. Wagner Rambo
 
-Entre outras plataformas, que apenas não tiveram espaço para aparecerem, mas tendo igual importância, pois como diria o Professor Gustavo Guanabara:
+Entre outras plataformas, gratuitas e pagas, que apenas não tiveram espaço para aparecerem, mas tendo igual importância, pois como diria o Professor Gustavo Guanabara:
 
 > Não sei qual é o segredo do sucesso, mas sei qual é o do fracasso: não fazer
 
