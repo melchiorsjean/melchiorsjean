@@ -3,7 +3,6 @@
 Sou estudante do ensino médio, específicamente, do primeiro ano.
 - 🔭 Hoje trabalho como aprendiz de TI
 - 🌱 Estudando C
-- 😄 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/melchiorsjean">
